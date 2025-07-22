@@ -1,0 +1,26 @@
+.contact-section {
+  background: linear-gradient(135deg, #f7971e, #ffd200);
+}
+
+.contact-section h1 {
+  font-weight: bold;
+  color: #0d6efd;
+}
+
+.contact-section p {
+  color: #000000;
+}
+
+.contact-section .form-label {
+  font-weight: 500;
+}
+
+.contact-section .form-control:focus {
+  border-color: #0d6efd;
+  box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+}
+
+.contact-info p {
+  font-size: 1rem;
+  color: #000000;
+}
